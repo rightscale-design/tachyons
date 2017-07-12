@@ -77,4 +77,20 @@
   --washed-yellow:  #fffceb;
   --washed-red:  #ffdfdf;
 
+  --dk-green: #80C11A;
+  --dk-blue: #0A83F6;
+  --dk-red: #C32525;
+  --dk-purple: #7355A6;
+  --dk-orange: #F7A626;
+  --dk-viking: #4FBBCD;
+  --dk-royal-purple: #7355A6;
+
+  --dk-text: #76899A;
+  --dk-heading: #57626C;
+  --dk-link: #7355A6;
+  --dk-link-hover: #0769c6;
+
+  --dk-header-flat: #0069CC;
+  --dk-left-background-dark: #353B41;
+  --dk-body-background: #F4F5F7;
 }
